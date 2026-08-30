@@ -1,0 +1,13 @@
+﻿route_id,route_number,route_name,origin,destination,distance_km,base_fare_kes
+1,Route 46,Rongai - CBD,Rongai,CBD (Railways),22,100.00
+2,Route 33,Kikuyu - CBD,Kikuyu,CBD (Kencom),20,90.00
+3,Route 111,Thika Rd - CBD ,Thika,CBD (Ambassadeur),30,120.00
+4,Route 24,Kayole - CBD,Kayole,CBD (Odeon),15,80.00
+5,Route 8,Dandora - CBD,Dandora,CBD (Muthurwa),12,70.00
+6,Route 34,Ngong - CBD,Ngong,CBD (Railways),23,100.00
+7,Route 105,Kitengela - CBD,Kitengela,CBD (Afya Centre),32,150.00
+8,Route 17,Kawangware - CBD,Kawangware,CBD (GPO),10,60.00
+9,Route 23,Roysambu - CBD,Roysambu,CBD (TRM/Odeon),14,80.00
+10,Route 58,Umoja - CBD,Umoja,CBD (Muthurwa),13,70.00
+11,Route 125,Rongai - CBD (Bypass),Rongai,CBD (Kencom),25,110.00
+12,Route 237,Kitengela Express,Kitengela,CBD (Railways),33,160.00

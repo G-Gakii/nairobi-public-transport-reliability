@@ -1,0 +1,121 @@
+vehicle_id,vehicle_type,capacity,registration_plate,year_registered,sacco_operator
+1,33-seater Matatu,33,KE977Q,2017,Neno Enterprises
+2,Citihoppa Bus,60,KB289S,2017,Independent
+3,Minibus,25,KA557K,2012,Citi Hoppa
+4,33-seater Matatu,33,KA709N,2017,
+5,33-seater Matatu,33,KE115S,2011,Super Metro
+6,14-seater Matatu,14,KB714A,2022,Embassava
+7,14-seater Matatu,14,KE962G,2018,2NK
+8,33-seater Matatu,33,KD104X,2011,Embassava
+9,33-seater Matatu,33,KD664C,2021,Rongai Shuttle
+10,14-seater Matatu,14,KB625K,2010,Citi Hoppa
+11,33-seater Matatu,33,KA510D,2023,unknown
+12,14-seater Matatu,14,KA967X,2010,2NK
+13,14-seater Matatu,14,KA581N,2021,Double M
+14,33-seater Matatu,33,KE744G,2022,Rongai Shuttle
+15,14-seater Matatu,14,KC440A,2016,Citi Hoppa
+16,14-seater Matatu,33,KA111B,2017,Embassava
+17,14-seater Matatu,14,KE292Q,2018,2NK
+18,Boda Boda,1,KB529W,2016,Citi Hoppa
+19,14-seater Matatu,14,KB100J,2023,Independent
+20,14-seater Matatu,14,KA315F,2016,Independent
+21,33-seater Matatu,33,KA143E,2013,Embassava
+22,14-seater Matatu,14,KE436K,2016,Citi Hoppa
+23,14-seater Matatu,14,KB696W,2013,Super Metro
+24,33-seater Matatu,33,KC737Q,2012,Independent
+25,33-seater Matatu,33,KE238N,2012,Forward Travellers
+26,14-seater Matatu,14,KB937V,2013,2NK
+27,14-seater Matatu,14,KE301X,2016,Embassava
+28,33-seater Matatu,33,KD148D,2011,Super Metro
+29,33-seater Matatu,33,KC344Z,2021,Double M
+30,14-seater Matatu,14,KE602K,2018,Forward Travellers
+31,Citihoppa Bus,60,KA229H,2017,Neno Enterprises
+32,33-seater Matatu,33,KE729C,2014,2NK
+33,Citihoppa Bus,60,KB866A,2011,Rongai Shuttle
+34,33-seater Matatu,33,KB161B,2012,Rongai Shuttle
+35,14-seater Matatu,14,KE234C,2015,Forward Travellers
+36,Citihoppa Bus,60,KC772Z,2021,Neno Enterprises
+37,33-seater Matatu,33,KB704B,2024,Super Metro
+38,33-seater Matatu,33,KC817K,2010,Super Metro
+39,33-seater Matatu,33,KA593C,2021,Rongai Shuttle
+40,14-seater Matatu,14,KA177Q,2018,Kenya Mpya
+41,Minibus,25,KB912L,2015,Citi Hoppa
+42,33-seater Matatu,33,KA992P,2022,Super Metro
+43,Citihoppa Bus,60,KE114V,2020,Double M
+44,14-seater Matatu,14,KA723C,2011,Citi Hoppa
+45,33-seater Matatu,33,KC526Z,2015,Double M
+46,Citihoppa Bus,60,KE568Q,2017,Neno Enterprises
+47,14-seater Matatu,14,KE130K,2019,Citi Hoppa
+48,33-seater Matatu,33,KB815D,2017,Independent
+49,33-seater Matatu,33,KD361A,2015,Rongai Shuttle
+50,14-seater Matatu,14,KE307S,2012,Kenya Mpya
+51,33-seater Matatu,33,KD610H,2015,Double M
+52,33-seater Matatu,33,KB749P,2022,2NK
+53,Citihoppa Bus,60,KD324U,2024,Kenya Mpya
+54,14-seater Matatu,14,KB608M,2023,Super Metro
+55,Minibus,25,KC941F,2011,Embassava
+56,33-seater Matatu,33,KB950P,2016,Neno Enterprises
+57,33-seater Matatu,33,KC833V,2017,Kenya Mpya
+58,14-seater Matatu,14,KA384V,2010,Rongai Shuttle
+59,33-seater Matatu,33,KC764U,2010,Forward Travellers
+60,33-seater Matatu,33,KB125J,2013,Forward Travellers
+61,Minibus,25,KA557D,2020,Neno Enterprises
+62,33-seater Matatu,33,KC179X,2013,2NK
+63,Minibus,25,KC282Y,2010,Embassava
+64,33-seater Matatu,33,KA283H,2014,Kenya Mpya
+65,33-seater Matatu,33,KE612V,2022,Forward Travellers
+66,14-seater Matatu,14,KB189P,2024,Double M
+67,14-seater Matatu,14,KD301W,2024,Super Metro
+68,14-seater Matatu,14,KE768S,2022,Kenya Mpya
+69,33-seater Matatu,33,KB201Z,2023,Citi Hoppa
+70,14-seater Matatu,14,KD189K,2018,Kenya Mpya
+71,14-seater Matatu,14,KA456S,2011,Super Metro
+72,33-seater Matatu,33,KE531J,2017,Super Metro
+73,14-seater Matatu,14,KA539B,2012,Neno Enterprises
+74,14-seater Matatu,14,KB581E,2018,Neno Enterprises
+75,Minibus,25,KD604U,2021,Citi Hoppa
+76,Minibus,25,KD639T,2014,Neno Enterprises
+77,33-seater Matatu,33,KE626T,2014,Rongai Shuttle
+78,33-seater Matatu,33,KE313K,2023,Forward Travellers
+79,Boda Boda,1,KE379U,2017,2NK
+80,33-seater Matatu,33,KA615A,2019,Double M
+81,14-seater Matatu,14,KA628N,2018,Independent
+82,14-seater Matatu,14,KA807F,2011,Neno Enterprises
+83,33-seater Matatu,33,KD375H,2017,Embassava
+84,14-seater Matatu,14,KD935R,2018,Kenya Mpya
+85,14-seater Matatu,14,KD732A,2024,Rongai Shuttle
+86,14-seater Matatu,14,KA136G,2012,2NK
+87,14-seater Matatu,14,KC429Z,2015,2NK
+88,33-seater Matatu,33,KA611Z,2019,Citi Hoppa
+89,Citihoppa Bus,60,KE356Y,2013,Neno Enterprises
+90,Citihoppa Bus,60,KA484W,2016,Neno Enterprises
+91,33-seater Matatu,33,KE309W,2018,2NK
+92,33-seater Matatu,33,KE726U,2023,Forward Travellers
+93,14-seater Matatu,14,KC285L,2019,Kenya Mpya
+94,Citihoppa Bus,60,KB323G,2024,Citi Hoppa
+95,14-seater Matatu,14,KB235Z,2011,Rongai Shuttle
+96,14-seater Matatu,14,KD952P,2018,Forward Travellers
+97,14-seater Matatu,14,KA198G,2019,Kenya Mpya
+98,Citihoppa Bus,60,KC218Y,2018,Kenya Mpya
+99,33-seater Matatu,33,KB922C,2017,Citi Hoppa
+100,14-seater Matatu,14,KE728S,2024,Independent
+101,33-seater Matatu,33,KB288D,2013,Forward Travellers
+102,Minibus,25,KC789D,2019,Super Metro
+103,14-seater Matatu,14,KD179D,2015,Double M
+104,33-seater Matatu,33,KE463P,2013,Independent
+105,14-seater Matatu,14,KA964G,2012,Double M
+106,33-seater Matatu,33,KC515G,2019,Forward Travellers
+107,14-seater Matatu,14,KA431C,2022,Double M
+108,33-seater Matatu,33,KB616U,2015,Rongai Shuttle
+109,14-seater Matatu,14,KA862Z,2022,Forward Travellers
+110,Minibus,25,KD236L,2024,Neno Enterprises
+111,33-seater Matatu,33,KD883F,2016,2NK
+112,Minibus,25,KA916L,2014,Embassava
+113,14-seater Matatu,14,KC754V,2010,2NK
+114,14-seater Matatu,14,KC445G,2020,Double M
+115,33-seater Matatu,33,KE178N,2018,Embassava
+116,33-seater Matatu,33,KA880N,2019,Super Metro
+117,14-seater Matatu,14,KA856H,2014,Embassava
+118,33-seater Matatu,33,KA879G,2020,Double M
+119,14-seater Matatu,14,KC356J,2024,Kenya Mpya
+120,33-seater Matatu,33,KE525S,2019,Citi Hoppa
